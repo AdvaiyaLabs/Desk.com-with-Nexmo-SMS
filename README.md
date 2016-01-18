@@ -4,7 +4,7 @@
 
 ##Introduction
 
-Salesforce Desk.com helps desk software offer small businesses an all-in-one customer service software solution that will help keep their customers happy and loyal. Desk.com can be set up in just few hours, and provides multi-channel support, including phone, email, self-help pages and social media. This innovative help desk software will let the agents more easily serve end customers, have the insights needed to build better products and make smarter, growth-driven decisions.
+Salesforce Desk.com offers small businesses an all-in-one customer service software solution that will help keep their customers happy and loyal. Desk.com can be set up in just few hours, and provides multi-channel support, including phone, email, self-help pages and social media. This innovative help desk software will let the agents more easily serve end customers, have the insights needed to build better products and make smarter, growth-driven decisions.
 
 Integration of Desk.com with Nexmo SMS will allow Desk.com users to send SMS to the requester on various stages/events of his/her cases on Desk.com. User can configure the event as well as the respective SMS text.
 
