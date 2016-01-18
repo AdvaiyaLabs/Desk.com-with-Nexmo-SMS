@@ -1,6 +1,6 @@
 #Desk.com with Nexmo SMS
 
-<img src="https://github.com/AdvaiyaLabs/Desk.com-with-Nexmo-SMS/blob/master/Docs/image2.png" width=200>
+<img src="https://github.com/AdvaiyaLabs/Desk.com-with-Nexmo-SMS/blob/master/Docs/image1.png" width=200>
 
 ##Introduction
 
