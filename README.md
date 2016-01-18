@@ -10,7 +10,7 @@ Integration of Desk.com with Nexmo SMS will allow Desk.com users to send SMS to 
 
 ##Use case
 
-##User can send SMS to the requestor over various events - whenever a new case is created, opened, reopened, updated or pending.
+User can send SMS to the requestor over various events - whenever a new case is created, opened, reopened, updated or pending.
 
 ##Prerequisites 
 
